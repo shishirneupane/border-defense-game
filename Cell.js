@@ -7,7 +7,7 @@ class Cell {
   }
 
   draw(ctx) {
-    ctx.strokeStyle = "#c9c9c9";
+    ctx.strokeStyle = "#ebae4a";
     ctx.strokeRect(this.x, this.y, this.width, this.height);
   }
 }
