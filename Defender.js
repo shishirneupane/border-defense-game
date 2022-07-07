@@ -9,7 +9,7 @@ class Defender {
     this.y = y;
     this.width = CELL_SIZE;
     this.height = CELL_SIZE;
-    this.health = 100;
+    this.health = 50;
     this.frame = 0;
     // this.isShooting = false;
   }
